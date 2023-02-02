@@ -1,2 +1,4 @@
 ﻿
-Console.WriteLine("Hello, World!");
+
+var a=Console.ReadLine();
+Console.WriteLine($"Hello, World! {a}");
